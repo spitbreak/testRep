@@ -1,5 +1,5 @@
-#include <string.hpp>
-#include <stdio.hpp>
+#include <string.h>
+#include <stdio.hppccagea>
 
 struct foo
 {
