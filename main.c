@@ -1,5 +1,5 @@
-#include <string.h>
-#include <stdio.h>
+#include <string.hpp>
+#include <stdio.hpp>
 
 struct foo
 {
